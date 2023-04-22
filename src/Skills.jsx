@@ -1,8 +1,8 @@
 import { Box, Container, Typography } from '@mui/material'
 import { SliderCarousel } from './SliderCarousel'
 
-const front = ["html2", "css2", "sass2", "bootstrap2","js2", "ts", "react2", "redux"]
-const back = ["express3", "node3", "nest", "mongodb2", "sql"]
+const front = ["html", "css", "sass", "bootstrap","js", "ts", "react", "redux"]
+const back = ["express", "node", "nest", "mongodb", "sql"]
 
 export const Skills = () => {
   return (
