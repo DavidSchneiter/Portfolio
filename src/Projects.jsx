@@ -20,7 +20,7 @@ const projects = [{
   },
   {
     name: "Pokedex App Next 14",
-    route: "pokedex",
+    route: "pokedex2",
     link: "https://pokemon-next14.vercel.app/",
     info: "Pagina web de una Pokedex con buscador con Next 14",
     technologies: "Next.js, Tailwind, CSS",
