@@ -19,7 +19,15 @@ const projects = [{
     github: "https://github.com/DavidSchneiter/Todo-App"
   },
   {
-    name: "Pokedex App",
+    name: "Pokedex App Next 14",
+    route: "pokedex",
+    link: "https://pokemon-next14.vercel.app/",
+    info: "Pagina web de una Pokedex con buscador con Next 14",
+    technologies: "Next.js, Tailwind, CSS",
+    github: "https://github.com/DavidSchneiter/Pokemon-Next14"
+  },
+  {
+    name: "Pokedex App Next Old Pages Router",
     route: "pokedex",
     link: "https://pokedex-nextjs-davidschneiter.vercel.app/",
     info: "Pagina web de una Pokedex con buscador con Next.js",
